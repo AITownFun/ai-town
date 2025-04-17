@@ -80,7 +80,7 @@ There are a few ways to run the app on top of Convex (the backend).
 Note, if you're on Windows, see [below](#windows-installation).
 
 ```sh
-git clone https://github.com/a16z-infra/ai-town.git
+git clone https://github.com/AITownFun/ai-town.git
 cd ai-town
 npm install
 ```
