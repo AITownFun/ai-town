@@ -2,7 +2,7 @@
 
 [Live Game](https://www.townai.fun/)
 
-[Join our community on X](https://x.com/town_aifun)
+[Join our community on X](https://x.com/aitownfun_bnb)
 
 <img width="1454" alt="Screen Shot 2023-08-14 at 10 01 00 AM" src="https://github.com/AITownFun/ai-town/blob/main/demo-town-ai.png">
 
